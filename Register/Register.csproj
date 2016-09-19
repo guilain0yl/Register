@@ -154,6 +154,7 @@
     <Content Include="Content\default\js\noty\themes\bootstrap.js" />
     <Content Include="Content\default\js\noty\themes\default.js" />
     <Content Include="Content\default\js\noty\themes\relax.js" />
+    <Content Include="Content\default\js\passwordStrength.js" />
     <Content Include="Content\default\js\Validform_v5.3.2.js" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />

@@ -1302,8 +1302,10 @@
 	
 	function creatMsgbox(){
 		if($("#Validform_msg").length!==0){return false;}
-		msgobj=$('<div id="Validform_msg"><div class="Validform_title">'+tipmsg.tit+'<a class="Validform_close" href="javascript:void(0);">&chi;</a></div><div class="Validform_info"></div><div class="iframe"><iframe frameborder="0" scrolling="no" height="100%" width="100%"></iframe></div></div>').appendTo("body");//提示信息框;
-		msgobj.find("a.Validform_close").click(function(){
+		msgobj = $('<div id="Validform_msg"><div class="Validform_title">' + tipmsg.tit + '<a class="Validform_close" href="javascript:void(0);">&chi;</a></div><div class="Validform_info"></div><div class="iframe"><iframe frameborder="0" scrolling="no" height="100%" width="100%"></iframe></div></div>')
+	    //bug 当直接加到page上面的时候会出现提示信息 但是这是在 tiptype: 2的情况下
+	    //.appendTo("body");//提示信息框;
+	    msgobj.find("a.Validform_close").click(function () {
 			msgobj.hide();
 			msghidden=true;
 			if(errorobj){

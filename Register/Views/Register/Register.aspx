@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="../../Content/default/css/register.css" />
     <script src="../../Content/default/js/jquery-1.7.1.min.js"></script>
     <script src="../../Content/default/js/Validform_v5.3.2.js"></script>
+    <script src="../../Content/default/js/passwordStrength.js"></script>
     <script src="../../Content/default/js/noty/jquery.noty.js"></script>
     <script src="../../Content/default/js/noty/layouts/center.js"></script>
     <script src="../../Content/default/js/noty/themes/default.js"></script>
@@ -16,7 +17,7 @@
 <body>
     <div class="register">
         <div class="title-bar">用户注册</div>
-        <form class="userRegForm">
+        <form class="userRegForm" action="Register/Validate" method="post">
             <table>
                 <tr>
                     <td>用户名(邮箱):</td>
@@ -27,8 +28,15 @@
                 <tr>
                     <td>密码:</td>
                     <td>
-                        <input type="password" value="" id="password" class="c_text" datatype="s4-20" name="UserPassword" errormsg="请输入有效的密码(4-20个字符)" /></td>
+                        <input type="password" value="" plugin="passwordStrength" id="password" class="c_text" datatype="s4-20" name="UserPassword" errormsg="请输入有效的密码(4-20个字符)" />
+                    </td>
                     <td><span class="Validform_checktip">4-20个字符(英文、数字或中文)</span></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td id="#table_password">
+                        <div class="passwordStrength">密码强度：<span>弱</span><span>中</span><span class="last">强</span></div></td>
+                    <td></td>
                 </tr>
                 <tr>
                     <td>确认密码:</td>
@@ -56,29 +64,25 @@
         $(function () {
             $(".userRegForm").Validform({
                 btnSubmit: "#btnReg",
-                tiptype: 2,
-                //ajaxPost:true,
+                tiptype: 1,
+                usePlugin: {
+                    passwordstrength: {
+                        minLen: 4,
+                        maxLen: 20
+                    }
+                },
+                ajaxPost:true,
                 beforeSubmit: function (curform) {
                     if (!$("#chkAgree").is(":checked")) {
                         noty({ text: "对不起，没有选中协议，没法让你注册呦！", layout: "center", timeout: 5000, type: "error" });
                         return false;
                     }},
                 callback: function (data) {
-                    $.post('Register/Validate',
-                        {
-                            UserID: $("#username").val(),
-                            UserPassword: $("#password").val()
-                        },
-                        function (data) {
-                            if (data.status == "y")
-                                location.href = "http://www.baidu.com";
-                            noty({ text: data.info, layout: "center", timeout: 5000 });
-                        })
-                    return false;
+                    if (data.status == "y") location.href = "http://www.baidu.com";
+                    else noty({ text: data.info, layout: "center", timeout: 5000 });
                 }
-            });
+            })
         })
-
     </script>
 </body>
 </html>
