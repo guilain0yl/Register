@@ -1,0 +1,1899 @@
+----------开始-----------2016-08-22 08:31:06,528 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:31:06,613 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 08:35:42,292 [13] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:35:42,352 [13] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 08:37:00,108 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:37:00,165 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 08:39:12,339 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:39:12,381 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 08:42:42,730 [14] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:42:42,784 [14] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 08:44:11,405 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:44:11,476 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 08:52:55,880 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 08:52:55,935 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 09:10:15,757 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:10:15,811 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:10:17,278 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:18,103 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:18,283 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:18,444 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:18,612 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:19,666 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:19,835 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:19,995 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:10:35,627 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:10:35,701 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:10:40,306 [18] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:10:49,414 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:13:33,009 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:13:33,087 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:13:46,064 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:14:37,075 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:14:37,146 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:14:39,333 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:16:33,539 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:16:33,612 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:16:37,029 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:16:48,504 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:18:01,249 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:21:58,208 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:21:58,288 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:22:03,278 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:24:19,218 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:24:19,304 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:24:21,463 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:26:47,311 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:26:47,366 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:26:58,528 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:27:24,964 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:28:37,675 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:28:37,755 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:28:41,115 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:31:27,213 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:31:27,288 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:31:31,854 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:36:35,142 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:36:35,221 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:36:57,978 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 09:37:07,387 [13] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:38:03,912 [12] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:38:03,991 [12] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:38:06,465 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:40:29,439 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:40:29,516 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:40:34,357 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:45:46,155 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:45:46,233 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:45:58,801 [14] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:46:29,019 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:46:29,096 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:46:31,504 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:46:58,974 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:46:59,048 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:46:59,938 [14] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:47:30,941 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:47:31,021 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:47:32,328 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:48:27,261 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:48:27,337 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:48:28,897 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:51:36,800 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:51:36,878 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:51:38,599 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 09:53:55,191 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 09:53:55,246 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 09:53:58,535 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:00:44,720 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:00:44,777 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:00:45,984 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:03:00,749 [13] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:03:00,823 [13] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:03:01,820 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:05:28,173 [13] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:05:28,255 [13] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:05:29,431 [16] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:20:32,103 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:20:32,163 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:20:35,602 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:20:38,636 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:38,637 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:39,084 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:39,084 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:42,131 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:42,131 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:42,292 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:42,292 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:42,577 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:42,578 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:42,682 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:42,682 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:43,570 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:43,571 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:43,750 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:43,751 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:44,603 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:44,603 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:20:44,787 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:20:44,787 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+----------开始-----------2016-08-22 10:31:09,805 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:31:09,880 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:31:11,096 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:31:16,431 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:16,432 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:17,030 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:17,030 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:17,531 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:17,531 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:17,712 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:17,712 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:17,870 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:17,870 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:18,553 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:18,553 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:19,451 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:19,451 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:20,063 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:20,063 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:31:35,702 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:31:40,937 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:31:40,937 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+----------开始-----------2016-08-22 10:33:28,047 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:33:28,134 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:33:28,290 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:33:28,292 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:33:32,580 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:33:36,288 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:33:36,288 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+----------开始-----------2016-08-22 10:34:23,832 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:34:23,909 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:34:25,827 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:34:31,732 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:34:31,733 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+----------开始-----------2016-08-22 10:35:59,182 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:35:59,256 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:36:00,567 [16] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:36:06,744 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:36:06,745 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:36:08,348 [14] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:36:12,034 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:36:12,034 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:36:13,685 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:36:18,994 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:36:18,995 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+----------开始-----------2016-08-22 10:37:24,278 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:37:24,371 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:37:25,796 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:37:27,768 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:37:27,769 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:37:28,434 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:37:28,434 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:37:29,071 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:37:29,071 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:37:31,556 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:37:39,804 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:37:39,805 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:37:41,700 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:38:13,163 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:38:13,245 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:38:14,589 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:38:18,144 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:38:18,145 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:38:19,395 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:38:19,395 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:38:21,013 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:38:22,923 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:38:22,924 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:38:24,661 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:38:26,171 [15] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:38:26,171 [15] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+----------开始-----------2016-08-22 10:43:43,497 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:43:43,576 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:43:45,979 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:44:06,112 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:44:06,113 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:44:07,367 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:44:07,367 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:44:09,452 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 10:44:11,009 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Must declare command parameters.
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Must declare command parameters.
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 10:44:11,009 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_DETAILS WHERE RID=@RID
+2016-08-22 10:44:17,691 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:49:10,396 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:49:10,473 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:49:11,730 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 10:52:26,538 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 10:52:26,618 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 10:52:28,412 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 11:02:57,242 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 11:02:57,320 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 11:02:58,609 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 13:16:52,494 [8] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 13:16:52,551 [8] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 13:16:53,847 [8] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 13:16:57,363 [8] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 13:16:57,448 [8] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PID
+At line 1, column 84
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PID
+At line 1, column 84 ---> Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PID
+At line 1, column 84
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 13:16:57,463 [8] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where PID=@PID 
+2016-08-22 13:16:57,479 [8] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 13:16:57,532 [8] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PID
+At line 1, column 84
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PID
+At line 1, column 84 ---> Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PID
+At line 1, column 84
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 13:16:57,532 [8] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where PID=@PID order by D.rid desc rows (1+(@pageIndex-1)*5) to+(5+(@pageIndex-1)*5) 
+----------开始-----------2016-08-22 13:50:37,931 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 13:50:37,986 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 13:52:17,466 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 13:52:17,517 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-08-22 13:53:24,832 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 13:53:24,896 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 13:53:27,365 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 13:53:27,443 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 13:53:27,443 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 13:53:30,380 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToDecimal(String value, IFormatProvider provider)
+   在 System.String.System.IConvertible.ToDecimal(IFormatProvider provider)
+   在 System.Convert.ToDecimal(Object value, IFormatProvider provider)
+   在 FirebirdSql.Data.Common.DbValue.GetDecimal()
+   在 FirebirdSql.Data.Common.DbValue.GetNumericBytes()
+   在 FirebirdSql.Data.Common.DbValue.GetBytes()
+   在 FirebirdSql.Data.Client.Common.XsqldaMarshaler.MarshalManagedToNative(Charset charset, Descriptor descriptor)
+   在 FirebirdSql.Data.Client.Native.FesStatement.Execute()
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 13:53:30,380 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_HEAD WHERE RID=@RID
+2016-08-22 13:53:30,442 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 13:53:30,442 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID order by D.rid desc rows (1+(@pageIndex-1)*5) to+(5+(@pageIndex-1)*5) 
+----------开始-----------2016-08-22 14:05:01,763 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:05:01,824 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:05:04,410 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:05:04,545 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:05:04,545 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 14:36:22,622 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:36:22,680 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:36:29,336 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:36:29,426 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:36:29,427 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 14:38:16,381 [12] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:38:16,473 [12] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:38:17,935 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:38:18,058 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:38:18,058 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 14:38:25,411 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:38:41,388 [15] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 14:39:42,230 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:39:42,287 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:39:43,864 [8] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:39:43,949 [8] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:39:43,949 [8] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 14:39:51,450 [8] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 14:41:55,188 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:41:55,244 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:41:56,686 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:41:56,779 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:41:56,780 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 14:42:03,758 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:42:03,820 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 1, column 25
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 1, column 25 ---> Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 1, column 25
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:42:03,820 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PROVIDERS where
+----------开始-----------2016-08-22 14:43:09,541 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:43:09,597 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:43:11,949 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:43:12,043 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:43:12,044 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 14:43:20,127 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-22 14:43:41,428 [12] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:43:41,500 [12] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:43:43,455 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:43:43,586 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:43:43,602 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 14:44:36,753 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:44:36,807 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:44:37,843 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:44:37,921 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:44:37,922 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 14:59:26,469 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 14:59:26,533 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 14:59:28,046 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 14:59:28,129 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 14:59:28,130 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 15:04:10,524 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:04:10,578 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:04:11,798 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:04:11,867 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:04:11,883 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 15:10:55,868 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:10:55,931 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:10:57,180 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:10:57,268 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:10:57,269 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 15:22:38,833 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:22:38,879 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:22:40,147 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:22:40,232 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:22:40,232 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 15:24:39,683 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:24:39,763 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:24:41,417 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:24:41,544 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:24:41,544 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:25:01,760 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:25:01,828 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:25:01,828 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+2016-08-22 15:25:06,856 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:25:06,918 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:25:06,918 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:25:49,279 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:25:49,579 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:25:49,579 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:27:02,783 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:27:03,099 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:27:03,099 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:27:09,876 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:27:09,928 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:27:09,928 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+2016-08-22 15:27:16,898 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:27:16,966 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:27:16,966 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:28:02,696 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:28:02,996 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:28:02,996 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+2016-08-22 15:28:27,025 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:28:27,325 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:28:27,325 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 15:29:57,987 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:29:58,046 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:30:00,282 [12] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:30:00,364 [12] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:30:00,365 [12] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:30:21,431 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:30:21,432 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+----------开始-----------2016-08-22 15:31:29,181 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:31:29,235 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:31:30,470 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:31:30,558 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:31:30,560 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:31:37,534 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:31:37,534 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+----------开始-----------2016-08-22 15:39:51,159 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:39:51,218 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:39:52,542 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:39:52,631 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:39:52,632 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:40:18,115 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:40:18,116 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+2016-08-22 15:40:28,125 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:40:28,205 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:40:28,205 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 15:40:44,436 [13] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD" ---> violation of PRIMARY or UNIQUE KEY constraint "INTEG_12" on table "PO_IN_HEAD"
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   在 EasyTech.Utils.Data.DataAccess.ExecSqlByParams(String SQL, DbParameter[] DbParams)
+2016-08-22 15:40:44,436 [13] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.ExecuteSQL->INSERT INTO PO_IN_HEAD (PROV_NO,RECEIVER_NO,IN_DATE,BILL_NO) select @PROV_NO,@RECEIVER_NO,@IN_DATE,BILL_NO from BILL_PRO
+----------开始-----------2016-08-22 15:55:34,930 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 15:55:35,034 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 15:55:37,347 [10] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 15:55:37,474 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 15:55:37,474 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+----------开始-----------2016-08-22 16:19:18,772 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 16:19:18,835 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 16:19:20,530 [16] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 16:19:20,615 [16] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:20,616 [16] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 16:19:23,093 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToDecimal(String value, IFormatProvider provider)
+   在 System.String.System.IConvertible.ToDecimal(IFormatProvider provider)
+   在 System.Convert.ToDecimal(Object value, IFormatProvider provider)
+   在 FirebirdSql.Data.Common.DbValue.GetDecimal()
+   在 FirebirdSql.Data.Common.DbValue.GetNumericBytes()
+   在 FirebirdSql.Data.Common.DbValue.GetBytes()
+   在 FirebirdSql.Data.Client.Common.XsqldaMarshaler.MarshalManagedToNative(Charset charset, Descriptor descriptor)
+   在 FirebirdSql.Data.Client.Native.FesStatement.Execute()
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:23,093 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_HEAD WHERE RID=@RID
+2016-08-22 16:19:23,161 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:23,161 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID order by D.rid desc rows (1+(@pageIndex-1)*5) to+(5+(@pageIndex-1)*5) 
+2016-08-22 16:19:25,261 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 16:19:25,314 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:25,314 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 16:19:27,861 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToDecimal(String value, IFormatProvider provider)
+   在 System.String.System.IConvertible.ToDecimal(IFormatProvider provider)
+   在 System.Convert.ToDecimal(Object value, IFormatProvider provider)
+   在 FirebirdSql.Data.Common.DbValue.GetDecimal()
+   在 FirebirdSql.Data.Common.DbValue.GetNumericBytes()
+   在 FirebirdSql.Data.Common.DbValue.GetBytes()
+   在 FirebirdSql.Data.Client.Common.XsqldaMarshaler.MarshalManagedToNative(Charset charset, Descriptor descriptor)
+   在 FirebirdSql.Data.Client.Native.FesStatement.Execute()
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:27,861 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_HEAD WHERE RID=@RID
+2016-08-22 16:19:27,930 [10] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:27,930 [10] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID order by D.rid desc rows (1+(@pageIndex-1)*5) to+(5+(@pageIndex-1)*5) 
+2016-08-22 16:19:33,286 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -206
+Column unknown
+GOODS_MODEL
+At line 1, column 31
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -206
+Column unknown
+GOODS_MODEL
+At line 1, column 31 ---> Dynamic SQL Error
+SQL error code = -206
+Column unknown
+GOODS_MODEL
+At line 1, column 31
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:33,286 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select GOODS_NAME,GOODS_MODEL from GOODS where GOODS_NO=@GOODS_NO
+2016-08-22 16:19:47,459 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -206
+Column unknown
+GOODS_MODEL
+At line 1, column 31
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -206
+Column unknown
+GOODS_MODEL
+At line 1, column 31 ---> Dynamic SQL Error
+SQL error code = -206
+Column unknown
+GOODS_MODEL
+At line 1, column 31
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:19:47,459 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select GOODS_NAME,GOODS_MODEL from GOODS where GOODS_NO=@GOODS_NO
+----------开始-----------2016-08-22 16:21:47,128 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 16:21:47,182 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 16:21:49,977 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 16:21:50,053 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:21:50,055 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 
+2016-08-22 16:21:52,594 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToDecimal(String value, IFormatProvider provider)
+   在 System.String.System.IConvertible.ToDecimal(IFormatProvider provider)
+   在 System.Convert.ToDecimal(Object value, IFormatProvider provider)
+   在 FirebirdSql.Data.Common.DbValue.GetDecimal()
+   在 FirebirdSql.Data.Common.DbValue.GetNumericBytes()
+   在 FirebirdSql.Data.Common.DbValue.GetBytes()
+   在 FirebirdSql.Data.Client.Common.XsqldaMarshaler.MarshalManagedToNative(Charset charset, Descriptor descriptor)
+   在 FirebirdSql.Data.Client.Native.FesStatement.Execute()
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteCommand(CommandBehavior behavior, Boolean returnsSet)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:21:52,594 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from PO_IN_HEAD WHERE RID=@RID
+2016-08-22 16:21:52,673 [9] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:21:52,673 [9] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID order by D.rid desc rows (1+(@pageIndex-1)*5) to+(5+(@pageIndex-1)*5) 
+----------开始-----------2016-08-22 16:22:57,147 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-22 16:22:57,229 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-22 16:22:59,008 [11] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-22 16:22:59,149 [11] ERROR SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID ---> Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PO_IN_DETAILS and table GOODS 
+RID
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader(CommandBehavior behavior)
+   在 FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 EasyTech.Utils.Data.DataAccess.GetData(String SQL, DbParameter[] DbParams, DataTable& Data)
+2016-08-22 16:22:59,150 [11] DEBUG SysLogger [(null)] - EasyTech.Data.SysProfileAccess.GetData->select * from  PO_IN_DETAILS D left join goods on goods.goods_no=D.goods_no  where RID=@RID 

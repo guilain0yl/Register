@@ -1,0 +1,27 @@
+----------开始-----------2016-08-25 10:55:19,478 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-25 10:55:19,543 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-25 10:55:23,203 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-25 10:55:34,391 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-25 10:55:42,899 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+2016-08-25 10:55:53,007 [9] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)
+----------开始-----------2016-08-25 10:57:20,486 [14] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\GOODS\GOODS\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\GOODS\GOODS\App_Data\PI.config
+2016-08-25 10:57:20,569 [14] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+2016-08-25 10:57:21,479 [16] WARN  SysLogger [(null)] - EasyTech.Data.SysProfileAccess.getValueType->未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 EasyTech.Data.BizDataAccess.getValueType(Object paramValue)

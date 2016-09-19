@@ -1,0 +1,72 @@
+----------开始-----------2016-09-19 14:16:30,689 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:16:30,750 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 14:17:57,966 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:17:58,008 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 14:41:20,124 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:41:20,164 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 14:47:15,676 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:47:15,729 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 14:52:45,468 [10] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:52:45,507 [10] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 14:57:05,648 [8] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:57:05,703 [8] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 14:57:44,416 [9] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 14:57:44,470 [9] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 15:06:57,790 [21] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 15:06:57,848 [21] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 15:11:33,149 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 15:11:33,207 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 15:13:42,977 [13] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 15:13:43,056 [13] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 15:18:17,808 [11] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 15:18:17,866 [11] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)
+----------开始-----------2016-09-19 15:19:58,240 [7] DEBUG SysLogger [(null)] - EasyTech.Data.DataFactory.GetProfileConnection->dbType:;paramPrefix:@;providerType:FirebirdSql.Data.FirebirdClient;connectionString:client library=F:\m_project\Register\Register\bin\firebird\fbembed.dll;server type=Embedded;data source=localhost;user id=sa;password=123;dialect=3;pooling=True;character set=GB_2312;initial catalog=F:\m_project\Register\Register\App_Data\REG.config
+2016-09-19 15:19:58,296 [7] ERROR SysLogger [(null)] - EasyTech.Data.DataFactory.RefreshDataProfiles->A 'sys' connectionStrings is not config in system config.
+EasyTech.Data.ExceptionEx: A 'sys' connectionStrings is not config in system config.
+   在 EasyTech.Data.DataFactory.GetProfileConnection(String connName, String& connectionString, String& paramPrefix, String& providerType)
+   在 EasyTech.Data.DataFactory.get_profileConfigAccess()
+   在 EasyTech.Data.DataFactory.RefreshDataProfiles(String ProfileTag)

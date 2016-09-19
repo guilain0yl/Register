@@ -1,0 +1,28 @@
+
+SDWM-20130330KX	Wed Oct 15 18:11:42 2014
+	Shutting down the server with 0 active connection(s) to 0 database(s), 1 active service(s)
+
+
+Sc-201501121237	Wed Mar 04 14:00:23 2015
+	Modifying procedure SP_GET_DEPT_RID which is currently in use by active user requests
+
+
+Sc-201501121237	Wed Mar 04 14:01:20 2015
+	Modifying procedure SP_GET_DEPT_RID which is currently in use by active user requests
+
+
+Sc-201501121237	Wed Mar 04 14:03:36 2015
+	Modifying procedure SP_GET_DEPT_RID which is currently in use by active user requests
+
+
+Sc-201501121237	Wed Mar 04 14:05:09 2015
+	Modifying procedure SP_GET_DEPT_RID which is currently in use by active user requests
+
+
+Sc-201501121237	Thu Mar 05 11:26:24 2015
+	Modifying procedure SP_USER_DEVICE_INSERT which is currently in use by active user requests
+
+
+SUSAN-PC	Fri Mar 27 17:38:22 2015
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+

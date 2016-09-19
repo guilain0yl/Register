@@ -1,0 +1,9 @@
+F:\m_project\Register\Register.biz\bin\Debug\Register.biz.dll
+F:\m_project\Register\Register.biz\bin\Debug\Register.biz.pdb
+F:\m_project\Register\Register.biz\bin\Debug\EasyTech.dll
+F:\m_project\Register\Register.biz\bin\Debug\EasyTech.Web.dll
+F:\m_project\Register\Register.biz\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+F:\m_project\Register\Register.biz\bin\Debug\log4net.dll
+F:\m_project\Register\Register.biz\obj\Debug\Register.biz.csprojResolveAssemblyReference.cache
+F:\m_project\Register\Register.biz\obj\Debug\Register.biz.dll
+F:\m_project\Register\Register.biz\obj\Debug\Register.biz.pdb
