@@ -64,7 +64,7 @@
         $(function () {
             $(".userRegForm").Validform({
                 btnSubmit: "#btnReg",
-                tiptype: 1,
+                tiptype: 2,
                 usePlugin: {
                     passwordstrength: {
                         minLen: 4,
